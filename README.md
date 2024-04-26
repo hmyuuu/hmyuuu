@@ -9,4 +9,9 @@
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hmyuuu&show_icons=true&include_all_commits=true&lang_count=10&layout=compact&theme=dracula&hide=jupyter%20notebook,Shell,PowerShell&role=OWNER,ORGANIZATION_MEMBER)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
