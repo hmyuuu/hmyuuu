@@ -5,7 +5,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hmyuuu/hmyuuu/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hmyuuu&layout=compact&theme=dracula)](https://wakatime.com/@hmyuuu)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hmyuuu&layout=compact&theme=draculahideText,Gitignore%20File,Properties,JSON,reStructuredText,Docker,Css,D,lo,HTML,Vue.js,Bash,Makefile)](https://wakatime.com/@hmyuuu)
 
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hmyuuu&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" height="180px" alt="logo"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hmyuuu&show_icons=true&include_all_commits=true&lang_count=10&layout=compact&theme=dracula&hide=jupyter%20notebook,Shell,PowerShell&role=OWNER,ORGANIZATION_MEMBER" height="180px" />
